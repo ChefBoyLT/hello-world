@@ -1,6 +1,6 @@
 # hello-world
 Logan Trower
-age: 23
+Age: 23
 Major: Electrical Engineering
 Background: Associates of Applied Science in Electrical Engineering Technology
 
